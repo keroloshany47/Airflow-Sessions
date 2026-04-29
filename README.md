@@ -1,8 +1,8 @@
 #  Airflow Sessions
 
-This repository contains **two sessions** explaining core concepts of **Apache Airflow** using practical  examples and slides.
+This repository contains **two sessions** explaining core concepts of **Apache Airflow** using practical examples and slides.
 
-
+---
 
 ##  What I Covered
 
@@ -16,29 +16,36 @@ I explained and demonstrated the following Airflow concepts:
 * Assets handling in Airflow workflows
 * Custom operators and Python decorators in Airflow
 
+---
 
 ##  Project Structure
 
-The `Code/` folder contains All Python scripts and Airflow-related examples:
+The `Code/` folder contains all Python scripts and Airflow-related examples:
 
+```text
 Code/
-    ├── Assets.py
-    ├── Branching.py
-    ├── ETL.py
-    ├── Grouping.py
-    ├── Xcom.py
-    ├── my first_decorator.py
-    ├── my first_operator.py
+├── Assets.py
+├── Branching.py
+├── ETL.py
+├── Grouping.py
+├── Xcom.py
+├── my first_decorator.py
+├── my first_operator.py
+```
 
+---
 
-###  Slides
+##  Slides
 
 The `Slides/` folder contains the session presentations:
 
+```text
 Slides/
-      ├── Airflow_session_1.pdf
-      ├── Airflow_session_2.pdf
+├── Airflow_session_1.pdf
+├── Airflow_session_2.pdf
+```
 
+---
 
 ##  Notes
 
